@@ -4,6 +4,7 @@
 
 <h2 align="left">☎️ Contact information</h2>
 E-mail: vitorluricii@hotmail.com
+</br>
 Phone: +55 14 996825293
 
 ###
