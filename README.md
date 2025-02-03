@@ -3,9 +3,9 @@
 ###
 
 <h2 align="left">☎️ Contact information</h2>
-E-mail: vitorluricii@hotmail.com
+<p>E-mail: vitorluricii@hotmail.com</p>
 </br>
-Phone: +55 14 996825293
+<p>Phone: +55 14 996825293</p>
 
 ###
 
