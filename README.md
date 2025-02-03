@@ -2,7 +2,11 @@
 
 ###
 
-<br clear="both">
+<h2 align="left">☎️ Contact information</h2>
+E-mail: vitorluricii@hotmail.com
+Phone: +55 14 996825293
+
+###
 
 <h2 align="left">📊 GitHub Stats</h2>
 
@@ -15,7 +19,7 @@
 
 ###
 
-<h2 align="left">🌟 TechSkills</h2>
+<h2 align="left">🌟 Tech Skills</h2>
 
 ###
 
@@ -46,17 +50,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/vitorlmoraes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/XXgrgBo5OFUAAAAC/solo-leveling-loniyke.gif"  />
 
 ###
