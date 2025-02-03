@@ -1,5 +1,7 @@
 <h1 align="left">👋 Hi there, I’m Vitor Lurici!</h1>
-• 📚 Studying <b>Software Engineering</b> at Unifio 
+<ul>
+<li>📚 Studying <b>Software Engineering</b> at Unifio</li>
+</ul>
 
 ###
 
