@@ -2,7 +2,8 @@
 <ul>
 <li>📚 Studying <b>Software Engineering</b> at <b>Unifio</b></li>
 </ul>
-<ul>My CV: [Vitor_Lurici_CV.pdf](https://github.com/user-attachments/files/18646805/Vitor_Lurici_CV.pdf)
+<ul>🗂️<a href="[Vitor_Lurici_CV.pdf](https://github.com/user-attachments/files/18646821/Vitor_Lurici_CV.pdf)
+" target="_blank">Download my CV</a>
 </ul>
 
 ###
