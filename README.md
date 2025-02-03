@@ -1,14 +1,15 @@
 <h1 align="left">👋 Hi there, I’m Vitor Lurici!</h1>
 <ul>
-<li>📚 Studying <b>Software Engineering</b> at Unifio</li>
+<li>📚 Studying <b>Software Engineering</b> at <b>Unifio</b></li>
 </ul>
 
 ###
 
 <h2 align="left">☎️ Contact information</h2>
-E-mail: <a href="mailto:vitorluricii@hotmail.com" target="_blank">vitorluricii@hotmail.com </a>
-</br>
-Phone: <a href="https://wa.me/5514996825293" target="_blank">+55 14 996825293 </a>
+<ul>
+<li>E-mail: <a href="mailto:vitorluricii@hotmail.com" target="_blank">vitorluricii@hotmail.com </a></li>
+<li>Phone: <a href="https://wa.me/5514996825293" target="_blank">+55 14 996825293 </a></li>
+</ul>
 
 ###
 
