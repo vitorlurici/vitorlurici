@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-##📊 GitHub Stats
+### 📊 GitHub Stats
 
 <br clear="both">
 
