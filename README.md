@@ -5,7 +5,7 @@
 <h2 align="left">☎️ Contact information</h2>
 E-mail: <a href="mailto:vitorluricii@hotmail.com" target="_blank">vitorluricii@hotmail.com </a>
 </br>
-Phone: +55 14 996825293
+Phone: <a href="https://wa.me/5514996825293" target="_blank">+55 14 996825293 </a>
 
 ###
 
