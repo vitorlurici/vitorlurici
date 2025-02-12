@@ -2,9 +2,9 @@
 <ul>
 <li>📚 Studying <b>Software Engineering</b> at <b>Unifio</b></li>
 <li>🌐 <a href="https://vitorlurici.github.io/portfolio
-" target="_blank">Portfolio</a></li>
+" target="_blank" rel="noopener noreferrer">Portfolio</a></li>
   <li>🗂️ <a href="https://github.com/user-attachments/files/18648395/Vitor_Lurici_CV.pdf
-" target="_blank">Download my CV</a>
+" target="_blank" rel="noopener noreferrer">Download my CV</a>
 </li>
 </ul>
 
@@ -12,8 +12,8 @@
 
 <h2 align="left">☎️ Contact information</h2>
 <ul>
-<li>E-mail: <a href="mailto:vitorluricii@hotmail.com" target="_blank">vitorluricii@hotmail.com </a></li>
-<li>Phone: <a href="https://wa.me/5514996825293" target="_blank">+55 14 996825293 </a></li>
+<li>E-mail: <a href="mailto:vitorluricii@hotmail.com" target="_blank" rel="noopener noreferrer">vitorluricii@hotmail.com </a></li>
+<li>Phone: <a href="https://wa.me/5514996825293" target="_blank" rel="noopener noreferrer">+55 14 996825293 </a></li>
 </ul>
 
 ###
