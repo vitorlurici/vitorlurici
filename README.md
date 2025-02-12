@@ -1,7 +1,9 @@
 <h1 align="left">👋 Hi there, I’m Vitor Lurici!</h1>
 <ul>
 <li>📚 Studying <b>Software Engineering</b> at <b>Unifio</b></li>
-<li>🗂️ <a href="https://github.com/user-attachments/files/18648395/Vitor_Lurici_CV.pdf
+<li>🌐 <a href="https://vitorlurici.github.io/portfolio
+" target="_blank">Portfolio</a></li>
+  <li>🗂️ <a href="https://github.com/user-attachments/files/18648395/Vitor_Lurici_CV.pdf
 " target="_blank">Download my CV</a>
 </li>
 </ul>
