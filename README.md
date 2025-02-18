@@ -3,6 +3,8 @@
 <li>📚 Studying <b>Software Engineering</b> at <b>Unifio</b></li>
 <li>🌐 <a href="https://vitorlurici.github.io/portfolio
 " target="_blank" rel="noopener noreferrer">Portfolio</a></li>
+  <li>🌐 <a href="https://www.linkedin.com/in/vitor-lurici-0911b1303
+" target="_blank" rel="noopener noreferrer">Linkedin</a></li>
   <li>🗂️ <a href="https://github.com/user-attachments/files/18648395/Vitor_Lurici_CV.pdf
 " target="_blank" rel="noopener noreferrer">Download my CV</a>
 </li>
